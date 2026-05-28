@@ -3,7 +3,7 @@ What_File: File Identity Triage Workbench
 # 🔍 WHAT_FILE
 > **Static File Identity Triage Workbench // Offline & Airgapped Mode**
 
-`What_File` is an intuitive, single-click GUI orchestration workbench that automates static binary analysis. Built for SOC analysts, reverse engineers, and cybersecurity newcomers to instantly eliminate CLI tool fatigue, safely unpack file layers, and expose advanced malware evasion tactics.
+`What_File` is an intuitive, single-click GUI orchestration workbench that automates static binary analysis. Built for SOC analysts, reverse engineers, and cybersecurity newcomers to instantly eliminate CLI tool fatigue, safely unpack file layers, and expose advanced malware evasion tactics. Currently compatiable with Ubuntu, Debian, Fedora, Arch and of course, Kali.
 
 ![What_File Dashboard](https://github.com/fahimnafis2025/what_file/blob/main/screenshot.png)
 
@@ -12,7 +12,7 @@ What_File: File Identity Triage Workbench
 ## ⚡ The Core Problem & Solution
 
 * **The Old Way (CLI Fatigue):** Manually jumping across fragmented terminals running `file`, `strings`, `clamscan`, and `yara` while fighting messy, unparsed text streams.
-* **The Hacker Way:** Drop the target file into `What_File`. Get automated layer unzipping, extension-spoofing logic checks, and signature-matching modules instantly inside a consolidated phosphor-green command cockpit.
+* **The Investigator Way:** Drop the target file into `What_File`. Get automated layer unzipping, extension-spoofing logic checks, and signature-matching modules instantly inside a consolidated phosphor-green command cockpit.
 
 ---
 
@@ -73,7 +73,7 @@ Place the `yara_rules/` folder in the same directory as `app.py`.
 
 ```bash
 python3 app.py
-*You may need to create a vevn to start
+*You may need to create a venv to start
 python3 -m venv venv
 source venv/bin/activate
 ```
