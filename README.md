@@ -5,7 +5,7 @@ What_File: File Identity Triage Workbench
 
 `What_File` is an intuitive, single-click GUI orchestration workbench that automates static binary analysis. Built for SOC analysts, reverse engineers, and cybersecurity newcomers to instantly eliminate CLI tool fatigue, safely unpack file layers, and expose advanced malware evasion tactics.
 
-![What_File Dashboard](https://raw.githubusercontent.com/fahimnafis2025/what_file/main/screenshot.png)
+![What_File Dashboard](https://github.com/fahimnafis2025/what_file/blob/main/screenshot.png)
 
 ---
 
